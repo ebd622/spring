@@ -5,3 +5,6 @@ String (boot) related docs and examples
 * Spring Framework Stereotype Annotations
 * Spring Boot Annotations
 * Spring MVC and REST Annotations
+
+## Resources 
+* https://www.geeksforgeeks.org/spring-boot-annotations/
