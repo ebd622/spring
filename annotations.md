@@ -8,3 +8,4 @@ Different annotation types provided by the Spring Framework
 
 ## Resources 
 * https://www.geeksforgeeks.org/spring-boot-annotations/
+* https://springframework.guru/spring-framework-annotations/
