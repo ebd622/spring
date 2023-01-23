@@ -1,8 +1,8 @@
 # Spring Boot Annotations
 Different annotation types provided by the Spring Framework
 
-##  Core Spring Framework Annotations
-* Spring Framework Stereotype Annotations
+### Core Spring Framework Annotations
+### Spring Framework Stereotype Annotations
 * Spring Boot Annotations
 * Spring MVC and REST Annotations
 
