@@ -7,7 +7,8 @@ TODO
 TODO
 ### Spring Boot Annotations
 TODO
-* Spring MVC and REST Annotations
+### Spring MVC and REST Annotations
+TODO
 
 ## Resources 
 * https://www.geeksforgeeks.org/spring-boot-annotations/
