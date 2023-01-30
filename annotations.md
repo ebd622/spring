@@ -6,7 +6,12 @@ TODO
 ### Spring Web Annotations
 TODO
 ### Spring Boot Annotations
-TODO
+* @SpringBootApplication
+* @SpringBootConfiguration
+* @EnableAutoConfiguration
+* @ComponentScan
+
+
 ### Spring Scheduling Annotations
 @EnableAsync
 
