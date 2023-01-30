@@ -11,6 +11,14 @@ TODO
 * @EnableAutoConfiguration
 * @ComponentScan
 
+#### Auto-Configuration Conditions
+* @ConditionalOnClass, and @ConditionalOnMissingClass
+* @ConditionalOnBean, and @ConditionalOnMissingBean
+* @ConditionalOnProperty
+* @ConditionalOnResource
+* @ConditionalOnWebApplication and @ConditionalOnNotWebApplication
+* @ConditionalExpression
+* @Conditional
 
 ### Spring Scheduling Annotations
 @EnableAsync
