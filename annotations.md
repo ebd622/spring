@@ -23,12 +23,9 @@ TODO
 ### Spring Scheduling Annotations
 * @EnableAsync
 * @EnableScheduling
-
-@Async
-
-@Scheduled
-
-@Schedules
+* @Async
+* @Scheduled
+* @Schedules
 
 TODO
 ### Spring Data Annotations
