@@ -21,9 +21,8 @@ TODO
 * @Conditional
 
 ### Spring Scheduling Annotations
-@EnableAsync
-
-@EnableScheduling
+* @EnableAsync
+* @EnableScheduling
 
 @Async
 
