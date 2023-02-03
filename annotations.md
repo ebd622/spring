@@ -4,6 +4,11 @@ Different annotation types provided by the Spring Framework
 ### Core Spring Annotations
 * @Required
 * @Autowired
+* @Qualifier
+* @Configuration
+* @ComponentScan
+
+
 TODO
 ### Spring Web Annotations
 TODO
