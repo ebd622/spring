@@ -7,6 +7,9 @@ Different annotation types provided by the Spring Framework
 * @Qualifier
 * @Configuration
 * @ComponentScan
+* @Bean
+* @Lazy
+* @Value
 
 
 TODO
