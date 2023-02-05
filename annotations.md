@@ -17,8 +17,12 @@ TODO
 TODO
 
 ### Spring Stereotype Annotations
-Package: org.springframework.stereotype
+Package: [org.springframework.stereotype](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/stereotype/package-summary.html)
 * Component
+* Controller
+* Service
+* Repository
+* Indexed
 TODO
 
 ### Spring Boot Annotations
