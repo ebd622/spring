@@ -15,6 +15,10 @@ Different annotation types provided by the Spring Framework
 TODO
 ### Spring Web Annotations
 TODO
+
+### Spring Stereotype Annotatio
+TODO
+
 ### Spring Boot Annotations
 * @SpringBootApplication
 * @SpringBootConfiguration
