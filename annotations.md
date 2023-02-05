@@ -16,7 +16,9 @@ TODO
 ### Spring Web Annotations
 TODO
 
-### Spring Stereotype Annotatio
+### Spring Stereotype Annotations
+Package: org.springframework.stereotype
+* Component
 TODO
 
 ### Spring Boot Annotations
