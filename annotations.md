@@ -54,7 +54,15 @@ TODO
 TODO
 
 ### Spring Testing Annotations
-TODO
+@BootstrapWith
+@ContextConfiguration
+@WebAppConfiguration
+@Timed
+@Repeat
+@Commit
+@RollBack
+@DirtiesContext
+@BeforeTransaction
 
 ## Resources 
 * https://www.geeksforgeeks.org/spring-boot-annotations/
