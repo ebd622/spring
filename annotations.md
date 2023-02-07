@@ -54,18 +54,18 @@ TODO
 TODO
 
 ### Spring Testing Annotations
-@BootstrapWith
-@ContextConfiguration
-@WebAppConfiguration
-@Timed
-@Repeat
-@Commit
-@RollBack
-@DirtiesContext
-@BeforeTransaction
-@AfterTransaction
-@Sql
-@SqlConfig
+* @BootstrapWith
+* @ContextConfiguration
+* @WebAppConfiguration
+* @Timed
+* @Repeat
+* @Commit
+* @RollBack
+* @DirtiesContext
+* @BeforeTransaction
+* @AfterTransaction
+* @Sql
+* @SqlConfig
 
 TODO
 
