@@ -68,7 +68,9 @@ TODO
 * @SqlConfig
 * @SqlGroup
 * @SpringBootTest
-* 
+* @DataJpaTest
+* @DataMongoTest
+* @WebMVCTest
 
 TODO
 
