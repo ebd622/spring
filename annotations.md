@@ -73,6 +73,8 @@ TODO
 * @WebMVCTest
 * @AutoConfigureMockMVC
 * @MockBean
+* @JsonTest
+* @TestPropertySource
 
 TODO
 
