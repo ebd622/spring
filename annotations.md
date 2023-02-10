@@ -71,6 +71,8 @@ TODO
 * @DataJpaTest
 * @DataMongoTest
 * @WebMVCTest
+* @AutoConfigureMockMVC
+* @MockBean
 
 TODO
 
