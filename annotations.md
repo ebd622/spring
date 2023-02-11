@@ -11,8 +11,6 @@ Different annotation types provided by the Spring Framework
 * @Lazy
 * @Value
 
-
-TODO
 ### Spring Web Annotations
 TODO
 
