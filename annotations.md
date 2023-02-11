@@ -12,9 +12,9 @@ Different annotation types provided by the Spring Framework
 * @Value
 
 ### Spring Web Annotations
-@Controller
-@RequestMapping
-@CookieValue
+* @Controller
+* @RequestMapping
+* @CookieValue
 
 TODO
 
