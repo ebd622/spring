@@ -12,6 +12,10 @@ Different annotation types provided by the Spring Framework
 * @Value
 
 ### Spring Web Annotations
+@Controller
+@RequestMapping
+@CookieValue
+
 TODO
 
 ### Spring Stereotype Annotations
