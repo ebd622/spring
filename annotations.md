@@ -18,6 +18,9 @@ Different annotation types provided by the Spring Framework
 * @CrossOrigin
 * @RequestMapping Variants
   * @GetMapping
+  * @PostMapping
+  * @PutMapping
+  * @PatchMapping
 
 TODO
 
