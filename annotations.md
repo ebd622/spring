@@ -15,6 +15,9 @@ Different annotation types provided by the Spring Framework
 * @Controller
 * @RequestMapping
 * @CookieValue
+* @CrossOrigin
+* @RequestMapping Variants
+  * @GetMapping
 
 TODO
 
