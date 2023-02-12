@@ -24,6 +24,13 @@ Different annotation types provided by the Spring Framework
 
 TODO
 
+### Spring Cloud Annotations
+* @EnableConfigServer
+* @EnableEurekaServer
+* @EnableDiscoveryClient
+* @EnableCircuitBreaker
+* 
+
 ### Spring Stereotype Annotations
 Package: [org.springframework.stereotype](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/stereotype/package-summary.html)
 * Component
@@ -38,6 +45,7 @@ TODO
 * @SpringBootConfiguration
 * @EnableAutoConfiguration
 * @ComponentScan
+* @HystrixCommand
 
 #### Auto-Configuration Conditions
 * @ConditionalOnClass, and @ConditionalOnMissingClass
