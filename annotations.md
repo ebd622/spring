@@ -21,6 +21,9 @@ Different annotation types provided by the Spring Framework
   * @PostMapping
   * @PutMapping
   * @PatchMapping
+  * @DeleteMapping
+  * @ExceptionHandler
+  * @InitBinder
 
 TODO
 
