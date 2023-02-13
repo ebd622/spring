@@ -29,7 +29,7 @@ TODO
 * @EnableEurekaServer
 * @EnableDiscoveryClient
 * @EnableCircuitBreaker
-* 
+* @HystrixCommand
 
 ### Spring Stereotype Annotations
 Package: [org.springframework.stereotype](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/stereotype/package-summary.html)
