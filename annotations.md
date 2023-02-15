@@ -24,6 +24,9 @@ Different annotation types provided by the Spring Framework
   * @DeleteMapping
   * @ExceptionHandler
   * @InitBinder
+  * @Mappings
+  * @Mapping
+  * @MatrixVariable
 
 TODO
 
