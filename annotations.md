@@ -29,6 +29,8 @@ Different annotation types provided by the Spring Framework
   * @MatrixVariable
   * @PathVariable
   * @RequestAttribute
+  * @RequestBody
+  * @RequestHeader
 
 TODO
 
