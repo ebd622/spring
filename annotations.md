@@ -31,6 +31,9 @@ Different annotation types provided by the Spring Framework
   * @RequestAttribute
   * @RequestBody
   * @RequestHeader
+  * @RequestParam
+  * @RequestPart
+  * 
 
 TODO
 
