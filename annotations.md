@@ -36,7 +36,9 @@ Different annotation types provided by the Spring Framework
   * @ResponseBody
   * @ResponseStatus
   * @ControllerAdvice
-  * 
+  * @RestController
+  * @RestControllerAdvice
+
 
 TODO
 
