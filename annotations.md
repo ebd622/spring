@@ -40,10 +40,6 @@ Different annotation types provided by the Spring Framework
   * @RestControllerAdvice
   * @SessionAttribute
   * @SessionAttributes
-  * 
-
-
-TODO
 
 ### Spring Cloud Annotations
 * @EnableConfigServer
