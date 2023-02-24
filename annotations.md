@@ -38,6 +38,9 @@ Different annotation types provided by the Spring Framework
   * @ControllerAdvice
   * @RestController
   * @RestControllerAdvice
+  * @SessionAttribute
+  * @SessionAttributes
+  * 
 
 
 TODO
