@@ -55,7 +55,6 @@ Package: [org.springframework.stereotype](https://docs.spring.io/spring-framewor
 * Service
 * Repository
 * Indexed
-TODO
 
 ### Spring Boot Annotations
 * @SpringBootApplication
