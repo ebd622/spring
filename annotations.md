@@ -57,6 +57,7 @@ Package: [org.springframework.stereotype](https://docs.spring.io/spring-framewor
 * Indexed
 
 ### Spring Boot Annotations
+Package org.springframework.boot.autoconfigure
 * @SpringBootApplication
 * @SpringBootConfiguration
 * @EnableAutoConfiguration
