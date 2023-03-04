@@ -82,6 +82,10 @@ Package [org.springframework.boot.autoconfigure](https://docs.spring.io/spring-b
 
 TODO
 ### Spring Data Annotations
+* @Transactional
+* @NoRepositoryBean
+
+
 TODO 
 ### Spring Bean Annotations
 TODO
